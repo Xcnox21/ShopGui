@@ -1,6 +1,8 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Xcnox21/ShopGui
 build-by-default: true
 branches:
-- ShopGui
-projects: 1
+- stable
+projects:
+  ShopGui:
+    path: ""
 ...
