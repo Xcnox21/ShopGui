@@ -1,0 +1,14 @@
+name: SansShop
+main: SansShop\Xcnox\Main
+api: 4.0.0
+version: 1.0
+aauthor: Xcnox
+
+commands:
+  sansshop:
+    description: ""
+    permission: "sans.shopss"
+    
+permissions:
+ sans.shopss:
+  default: true
