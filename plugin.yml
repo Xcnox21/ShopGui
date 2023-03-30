@@ -1,8 +1,8 @@
 name: SansShop
-main: SansShop\Xcnox\Main
+main: SansShop\Xcnox21\Main
 api: 4.0.0
 version: 1.0
-aauthor: Xcnox
+aauthor: Xcnox21
 
 commands:
   sansshop:
